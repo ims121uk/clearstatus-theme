@@ -3,7 +3,7 @@ section: issue
 title: Website is Down!
 date: 2024-09-03T10:49:13.456Z
 status: resolved
-pinned: ""
+pinned: top
 current_severity: monitoring
 max_severity: monitoring
 duration: ""
