@@ -14,7 +14,7 @@ params:
   dateFormat: January 2, 2006 at 14:45
   disqusShortname: null
   timezoneString: " UTC"
-  logo: /images/clearstatus.svg
+  logo: static/images/uploads/upstreamworks.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     WordPress.com' href='https://www.wordpress.com/'>example</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
