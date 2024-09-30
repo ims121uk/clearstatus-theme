@@ -5,12 +5,12 @@ params:
   meta_description: This status page provides updated information about WordPress
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://www.wordpress.com/
-    - name: Helpdesk
-      description: Our company customer support site
-      link: https://wordpress.com/helpdesk
+    - name: UW Assist North America
+      description: UW Assist North America Knowledgebase
+      link: https://public-na.uwassist.com
+    - name: UW Assist EMEA
+      description: UW Assist EMEA Knowledgebase
+      link: https://public-emea.uwassist.com
   dateFormat: January 2, 2006 at 14:45
   disqusShortname: null
   timezoneString: " UTC"
@@ -21,7 +21,7 @@ params:
     page on Twitter' href='https://www.twitter.com/wordpress'>on Twitter</a> or
     subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
     alerted of new events.
-  copyrightHolder: WordPress Inc.
+  copyrightHolder: upstreamworks plc
   eventsPerPage: 10
   iconType: image/png
   icon: /images/clearstatus.png
