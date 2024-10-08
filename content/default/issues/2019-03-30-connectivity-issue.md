@@ -2,7 +2,7 @@
 draft: false
 section: issue
 title: EMEA Connectivity failure
-date: 2024-09-04T19:03:00.000Z
+date: 2024-09-04T19:00:00.000Z
 status: resolved
 pinned: null
 current_severity: ok
