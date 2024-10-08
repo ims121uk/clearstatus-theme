@@ -14,7 +14,7 @@ params:
   dateFormat: January 2, 2006 at 14:45
   disqusShortname: null
   timezoneString: " UTC"
-  logo: static/images/uploads/upstreamworks.png
+  logo: /images/uploads/upstreamworks.png
   description_header: "This status page provide information on current issues with
     UW Assist platform, Incidents and General Maintenance. "
   copyrightHolder: upstreamworks plc
