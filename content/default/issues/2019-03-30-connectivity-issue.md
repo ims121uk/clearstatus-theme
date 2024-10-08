@@ -7,8 +7,8 @@ status: resolved
 pinned: null
 current_severity: ok
 max_severity: down
-duration: ""
-resolved_on: 2024-09-04T19:09:19.000Z
+duration: 10mn
+resolved_on: ""
 affected:
   - UW Assist EMEA
 twitterFeed: null
@@ -20,5 +20,6 @@ There was an issue on EMEA UW Assist Environment.\
 
 \
 **Monitoring:** The equipment in question has been replaced and site can be reached. We are monitoring the servers for the next few minutes to be sure all is OK. 
+\
 \
 **Resolved:** All servers are operating normally, issue is solved. Really sorry about the trouble!
