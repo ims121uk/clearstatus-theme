@@ -8,7 +8,7 @@ pinned: null
 current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: 2019-03-30 20:45:19
+resolved_on: 2024-09-04T19:09:19.000Z
 affected:
   - UW Assist EMEA
 twitterFeed: null
