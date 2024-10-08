@@ -20,11 +20,10 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/uploads/upstreamworks.png
-  description_header: <html><body><h2>This status page provide information on
-    current issues with UW Assist platform, Incidents and General Maintenance
-    planning.</h2></body></html>
+  description_header: ""
   copyrightHolder: upstreamworks plc
   eventsPerPage: 10
   iconType: image/png
+  groups: []
   icon: /images/clearstatus.png
   description_footer: ""
