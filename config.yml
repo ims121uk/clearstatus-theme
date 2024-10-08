@@ -2,8 +2,7 @@ title: UW Assist Maintenance Page
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
-  meta_description: This status page provide information on current issues with UW
-    Assist platform, Incidents and General Maintenance planning.
+  meta_description: ""
   systems:
     - name: UW Assist North America
       description: UW Assist North America Knowledgebase
@@ -11,11 +10,18 @@ params:
     - name: UW Assist EMEA
       description: UW Assist EMEA Knowledgebase
       link: https://portal-emea.uwassist.com
+    - name: UW Assist North America Lab
+      description: UW Assist North America Lab Knowledgebase
+      link: https://portal-na-lab.uwassist.com
+    - name: UW Assist EMEA Lab
+      description: UW Assist EMEA Lab Knowledgebase
+      link: https://portal-emea-lab.uwassist.com
   dateFormat: January 2, 2006 at 14:45
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/uploads/upstreamworks.png
-  description_header: ""
+  description_header: This status page provide information on current issues with
+    UW Assist platform, Incidents and General Maintenance planning.
   copyrightHolder: upstreamworks plc
   eventsPerPage: 10
   iconType: image/png
