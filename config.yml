@@ -1,9 +1,9 @@
-title: UW Assist Status Page
+title: UW Assist Maintenance Page
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
-  meta_description: This status page provides updated information about WordPress
-    systems normal operation, incidents that may happen and their resolution.
+  meta_description: This status page provide information on current issues with UW
+    Assist platform, Incidents and General Maintenance planning.
   systems:
     - name: UW Assist North America
       description: UW Assist North America Knowledgebase
@@ -15,8 +15,7 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/uploads/upstreamworks.png
-  description_header: "This status page provide information on current issues with
-    UW Assist platform, Incidents and General Maintenance. "
+  description_header: ""
   copyrightHolder: upstreamworks plc
   eventsPerPage: 10
   iconType: image/png
